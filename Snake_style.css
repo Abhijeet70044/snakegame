@@ -1,3 +1,7 @@
+
+*{
+    margin: 0px;
+}
 body {
     display: flex;
     flex-direction: column;
@@ -19,4 +23,8 @@ canvas {
     margin: 2px;
     width: 200px;
     text-align: center;
+}
+h1 {
+    margin-top: 40px;
+    
 }
